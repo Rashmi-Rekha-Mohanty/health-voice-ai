@@ -1,2 +1,1 @@
-# health-voice-ai
-## Client
+client/README.md
